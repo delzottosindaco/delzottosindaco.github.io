@@ -1,0 +1,7 @@
+{
+  "name": "Pierangelo Del Zotto - Campagna Elettorale Venezia",
+  "description": "Sito ufficiale della campagna elettorale di Pierangelo Del Zotto per Venezia. Visione, programma e squadra per il futuro della città.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
