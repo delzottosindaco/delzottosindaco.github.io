@@ -75,7 +75,7 @@ Ha un percorso di studi tecnico-scientifico e ha conseguito l'abilitazione all'i
 
 L'esperienza nel commercio e nella didattica le ha permesso di conoscere da vicino sia il mondo del lavoro che quello della scuola, tra spostamenti quotidiani, esigenze delle famiglie e servizi che funzionano o mancano sui territori.
 
-Si candida al Consiglio comunale per portare attenzione ai problemi concreti di chi ogni giorno lavora, accompagna i figli a scuola e si sposta tra quartieri e comuni, chiedendo trasporti più efficienti e servizi più vicini alle persone.`},{name:"Marzia Lodoli",img:"https://picsum.photos/seed/17/200/200",position:17,cvText:`Nata a Noale il 17 marzo 1967, risiede a Santa Maria di Sala (VE).
+Si candida al Consiglio comunale per portare attenzione ai problemi concreti di chi ogni giorno lavora, accompagna i figli a scuola e si sposta tra quartieri e comuni, chiedendo trasporti più efficienti e servizi più vicini alle persone.`},{name:"Marzia Lodoli",img:"/marzia-lodoli.jpg",position:17,cvText:`Nata a Noale il 17 marzo 1967, risiede a Santa Maria di Sala (VE).
 
 Operaia, ha conseguito il diploma di scuola media e un corso di operatività commerciale.
 
@@ -163,7 +163,7 @@ Ha un percorso di studi tecnico-scientifico e ha conseguito l'abilitazione all'i
 
 L'esperienza nel commercio e nella didattica le ha permesso di conoscere da vicino sia il mondo del lavoro che quello della scuola, tra spostamenti quotidiani, esigenze delle famiglie e servizi che funzionano o mancano sui territori.
 
-Si candida al Consiglio comunale per portare attenzione ai problemi concreti di chi ogni giorno lavora, accompagna i figli a scuola e si sposta tra quartieri e comuni, chiedendo trasporti più efficienti e servizi più vicini alle persone.`},{name:"Marzia Lodoli",img:"https://picsum.photos/seed/17/200/200",position:17,cvText:`Nata a Noale il 17 marzo 1967, risiede a Santa Maria di Sala (VE).
+Si candida al Consiglio comunale per portare attenzione ai problemi concreti di chi ogni giorno lavora, accompagna i figli a scuola e si sposta tra quartieri e comuni, chiedendo trasporti più efficienti e servizi più vicini alle persone.`},{name:"Marzia Lodoli",img:"/marzia-lodoli.jpg",position:17,cvText:`Nata a Noale il 17 marzo 1967, risiede a Santa Maria di Sala (VE).
 
 Operaia, ha conseguito il diploma di scuola media e un corso di operatività commerciale.
 
