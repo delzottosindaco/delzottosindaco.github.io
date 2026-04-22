@@ -69,7 +69,7 @@ Dopo il diploma tecnico economico conseguito all'istituto Atestino di Este, ha m
 
 Negli ultimi anni ha scelto di orientare il proprio percorso verso l'ambito educativo e socio-assistenziale, formandosi come terapista ABA e tecnico del comportamento e lavorando con famiglie e scuole nel supporto a bambini e ragazzi con bisogni educativi speciali. È considerata una persona flessibile, affidabile, con buone capacità di ascolto, problem solving e attenzione ai dettagli.
 
-Si candida al Consiglio comunale per portare l'esperienza maturata tra lavoro manuale, servizi educativi e sostegno alle famiglie, con l'obiettivo di contribuire a politiche più vicine al mondo del lavoro precario, alla disabilità e ai bisogni reali dei quartieri.`},{name:"Cristina Giacomazzi",img:"https://picsum.photos/seed/16/200/200",position:16,cvText:`Nata a Vicenza nel 1964, vive a Martellago (VE). Lavora come addetta alla vendita nell'isola di Murano per la ditta Giordani snc, attività che svolge da quattro anni.
+Si candida al Consiglio comunale per portare l'esperienza maturata tra lavoro manuale, servizi educativi e sostegno alle famiglie, con l'obiettivo di contribuire a politiche più vicine al mondo del lavoro precario, alla disabilità e ai bisogni reali dei quartieri.`},{name:"Cristina Giacomazzi",img:"/cristina-giacomazzi.jpg",position:16,cvText:`Nata a Vicenza nel 1964, vive a Martellago (VE). Lavora come addetta alla vendita nell'isola di Murano per la ditta Giordani snc, attività che svolge da quattro anni.
 
 Ha un percorso di studi tecnico-scientifico e ha conseguito l'abilitazione all'insegnamento per la scuola primaria e per le materie di chimica nella scuola superiore.
 
@@ -157,7 +157,7 @@ Dopo il diploma tecnico economico conseguito all'istituto Atestino di Este, ha m
 
 Negli ultimi anni ha scelto di orientare il proprio percorso verso l'ambito educativo e socio-assistenziale, formandosi come terapista ABA e tecnico del comportamento e lavorando con famiglie e scuole nel supporto a bambini e ragazzi con bisogni educativi speciali. È considerata una persona flessibile, affidabile, con buone capacità di ascolto, problem solving e attenzione ai dettagli.
 
-Si candida al Consiglio comunale per portare l'esperienza maturata tra lavoro manuale, servizi educativi e sostegno alle famiglie, con l'obiettivo di contribuire a politiche più vicine al mondo del lavoro precario, alla disabilità e ai bisogni reali dei quartieri.`},{name:"Cristina Giacomazzi",img:"https://picsum.photos/seed/16/200/200",position:16,cvText:`Nata a Vicenza nel 1964, vive a Martellago (VE). Lavora come addetta alla vendita nell'isola di Murano per la ditta Giordani snc, attività che svolge da quattro anni.
+Si candida al Consiglio comunale per portare l'esperienza maturata tra lavoro manuale, servizi educativi e sostegno alle famiglie, con l'obiettivo di contribuire a politiche più vicine al mondo del lavoro precario, alla disabilità e ai bisogni reali dei quartieri.`},{name:"Cristina Giacomazzi",img:"/cristina-giacomazzi.jpg",position:16,cvText:`Nata a Vicenza nel 1964, vive a Martellago (VE). Lavora come addetta alla vendita nell'isola di Murano per la ditta Giordani snc, attività che svolge da quattro anni.
 
 Ha un percorso di studi tecnico-scientifico e ha conseguito l'abilitazione all'insegnamento per la scuola primaria e per le materie di chimica nella scuola superiore.
 
