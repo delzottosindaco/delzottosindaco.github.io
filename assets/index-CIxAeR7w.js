@@ -45,7 +45,7 @@ Coordinatrice della Provincia di Venezia di DSP dal gennaio 2024 al gennaio 2026
 
 Iscritta all'Associazione Popolo Unito, si impegna nella promozione di eventi culturali e sociali per giustizia sociale e diritti civili.
 
-Si candida al Consiglio comunale per mettere a servizio la sua esperienza amministrativa e organizzativa, contribuendo a una gestione comunale concreta e capace di rispondere ai bisogni reali dei veneziani, specialmente nella crisi abitativa che colpisce le famiglie.`},{name:"Tiziana Fraticelli",img:"/tiziana-fraticelli.jpg",position:11},{name:"Stefano Gabbanoto",img:"https://picsum.photos/seed/12/200/200",position:12},{name:"Silvana Gaggio",img:"/silvana-gaggio-v2.jpg",position:13,cvText:`Nata a Napoli il 9 maggio 1950, risiede a Venezia Mestre.
+Si candida al Consiglio comunale per mettere a servizio la sua esperienza amministrativa e organizzativa, contribuendo a una gestione comunale concreta e capace di rispondere ai bisogni reali dei veneziani, specialmente nella crisi abitativa che colpisce le famiglie.`},{name:"Tiziana Fraticelli",img:"/tiziana-fraticelli.jpg",position:11},{name:"Stefano Gabbanoto",img:"/stefano-gabbanoto.jpg",position:12},{name:"Silvana Gaggio",img:"/silvana-gaggio-v2.jpg",position:13,cvText:`Nata a Napoli il 9 maggio 1950, risiede a Venezia Mestre.
 
 Pensionata, ha alle spalle una lunga esperienza lavorativa che le ha permesso di conoscere da vicino il mondo del lavoro e le difficoltà quotidiane di molte famiglie. Nel corso degli anni ha affiancato all'impegno professionale una forte attenzione ai temi sociali e alla solidarietà.
 
@@ -139,7 +139,7 @@ Coordinatrice della Provincia di Venezia di DSP dal gennaio 2024 al gennaio 2026
 
 Iscritta all'Associazione Popolo Unito, si impegna nella promozione di eventi culturali e sociali per giustizia sociale e diritti civili.
 
-Si candida al Consiglio comunale per mettere a servizio la sua esperienza amministrativa e organizzativa, contribuendo a una gestione comunale concreta e capace di rispondere ai bisogni reali dei veneziani, specialmente nella crisi abitativa che colpisce le famiglie.`},{name:"Tiziana Fraticelli",img:"/tiziana-fraticelli.jpg",position:11},{name:"Stefano Gabbanoto",img:"https://picsum.photos/seed/12/200/200",position:12},{name:"Silvana Gaggio",img:"/silvana-gaggio-v2.jpg",position:13,cvText:`Nata a Napoli il 9 maggio 1950, risiede a Venezia Mestre.
+Si candida al Consiglio comunale per mettere a servizio la sua esperienza amministrativa e organizzativa, contribuendo a una gestione comunale concreta e capace di rispondere ai bisogni reali dei veneziani, specialmente nella crisi abitativa che colpisce le famiglie.`},{name:"Tiziana Fraticelli",img:"/tiziana-fraticelli.jpg",position:11},{name:"Stefano Gabbanoto",img:"/stefano-gabbanoto.jpg",position:12},{name:"Silvana Gaggio",img:"/silvana-gaggio-v2.jpg",position:13,cvText:`Nata a Napoli il 9 maggio 1950, risiede a Venezia Mestre.
 
 Pensionata, ha alle spalle una lunga esperienza lavorativa che le ha permesso di conoscere da vicino il mondo del lavoro e le difficoltà quotidiane di molte famiglie. Nel corso degli anni ha affiancato all'impegno professionale una forte attenzione ai temi sociali e alla solidarietà.
 
