@@ -79,7 +79,7 @@ Si candida al Consiglio comunale per portare attenzione ai problemi concreti di 
 
 Operaia, ha conseguito il diploma di scuola media e un corso di operatività commerciale.
 
-Caposquadra della Protezione Civile, mette a servizio della comunità il proprio impegno nel volontariato e nella tutela del territorio.`},{name:"Vincenzo Marchesi",img:"/vincenzo-marchesi.jpg",position:18},{name:"Giuseppe Marzato",img:"https://picsum.photos/seed/19/200/200",position:19},{name:"Patrizia Mel",img:"/patrizia-mel.jpg",position:20},{name:"Christian Omiccioli",img:"https://picsum.photos/seed/21/200/200",position:21,cvText:`Laureato all'Università Ca' Foscari di Venezia in Tecniche artistiche e dello spettacolo, unisce formazione culturale e esperienza pratica nel mondo del lavoro.
+Caposquadra della Protezione Civile, mette a servizio della comunità il proprio impegno nel volontariato e nella tutela del territorio.`},{name:"Vincenzo Marchesi",img:"/vincenzo-marchesi.jpg",position:18},{name:"Giuseppe Marzato",img:"/giuseppe-marzato.jpg",position:19},{name:"Patrizia Mel",img:"/patrizia-mel.jpg",position:20},{name:"Christian Omiccioli",img:"https://picsum.photos/seed/21/200/200",position:21,cvText:`Laureato all'Università Ca' Foscari di Venezia in Tecniche artistiche e dello spettacolo, unisce formazione culturale e esperienza pratica nel mondo del lavoro.
 
 Musicista, ha maturato competenze nella performance e nella produzione artistica, collaborando a progetti legati alla musica dal vivo e alle attività culturali. Parallelamente lavora come impiegato nel settore alberghiero, dove si occupa di accoglienza e servizi agli ospiti, sviluppando capacità organizzative, di relazione con il pubblico e gestione delle situazioni complesse tipiche dell'ospitalità.
 
@@ -173,7 +173,7 @@ Si candida al Consiglio comunale per portare attenzione ai problemi concreti di 
 
 Operaia, ha conseguito il diploma di scuola media e un corso di operatività commerciale.
 
-Caposquadra della Protezione Civile, mette a servizio della comunità il proprio impegno nel volontariato e nella tutela del territorio.`},{name:"Vincenzo Marchesi",img:"/vincenzo-marchesi.jpg",position:18},{name:"Giuseppe Marzato",img:"https://picsum.photos/seed/19/200/200",position:19},{name:"Patrizia Mel",img:"/patrizia-mel.jpg",position:20},{name:"Christian Omiccioli",img:"https://picsum.photos/seed/21/200/200",position:21,cvText:`Laureato all'Università Ca' Foscari di Venezia in Tecniche artistiche e dello spettacolo, unisce formazione culturale e esperienza pratica nel mondo del lavoro.
+Caposquadra della Protezione Civile, mette a servizio della comunità il proprio impegno nel volontariato e nella tutela del territorio.`},{name:"Vincenzo Marchesi",img:"/vincenzo-marchesi.jpg",position:18},{name:"Giuseppe Marzato",img:"/giuseppe-marzato.jpg",position:19},{name:"Patrizia Mel",img:"/patrizia-mel.jpg",position:20},{name:"Christian Omiccioli",img:"https://picsum.photos/seed/21/200/200",position:21,cvText:`Laureato all'Università Ca' Foscari di Venezia in Tecniche artistiche e dello spettacolo, unisce formazione culturale e esperienza pratica nel mondo del lavoro.
 
 Musicista, ha maturato competenze nella performance e nella produzione artistica, collaborando a progetti legati alla musica dal vivo e alle attività culturali. Parallelamente lavora come impiegato nel settore alberghiero, dove si occupa di accoglienza e servizi agli ospiti, sviluppando capacità organizzative, di relazione con il pubblico e gestione delle situazioni complesse tipiche dell'ospitalità.
 
