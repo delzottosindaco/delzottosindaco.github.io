@@ -75,11 +75,11 @@ Ha un percorso di studi tecnico-scientifico e ha conseguito l'abilitazione all'i
 
 L'esperienza nel commercio e nella didattica le ha permesso di conoscere da vicino sia il mondo del lavoro che quello della scuola, tra spostamenti quotidiani, esigenze delle famiglie e servizi che funzionano o mancano sui territori.
 
-Si candida al Consiglio comunale per portare attenzione ai problemi concreti di chi ogni giorno lavora, accompagna i figli a scuola e si sposta tra quartieri e comuni, chiedendo trasporti più efficienti e servizi più vicini alle persone.`},{name:"Marzia Lodoli",img:"/marzia-lodoli.jpg",position:17,cvText:`Nata a Noale il 17 marzo 1967, risiede a Santa Maria di Sala (VE).
+Si candida al Consiglio comunale per portare attenzione ai problemi concreti di chi ogni giorno lavora, accompagna i figli a scuola e si sposta tra quartieri e comuni, chiedendo trasporti più efficienti e servizi più vicini alle persone.`},{name:"Marzia Lodoli",img:"/marzia-lodoli.jpg",position:17,cvText:`Nata a Noale il 17 marzo 1967, residente a Santa Maria di Sala.
 
-Operaia, ha conseguito il diploma di scuola media e un corso di operatività commerciale.
+Operaia, con licenza di terza media e corso di operatività commerciale, che le ha permesso di maturare competenze organizzative e di rapporto con il pubblico.
 
-Caposquadra della Protezione Civile, mette a servizio della comunità il proprio impegno nel volontariato e nella tutela del territorio.`},{name:"Vincenzo Marchesi",img:"/vincenzo-marchesi.jpg",position:18},{name:"Giuseppe Marzato",img:"/giuseppe-marzato.jpg",position:19},{name:"Patrizia Mel",img:"/patrizia-mel.jpg",position:20},{name:"Christian Omiccioli",img:"/christian-omiccioli.jpg",position:21,cvText:`Laureato all'Università Ca' Foscari di Venezia in Tecniche artistiche e dello spettacolo, unisce formazione culturale e esperienza pratica nel mondo del lavoro.
+È caposquadra di Protezione Civile, ruolo in cui coordina i volontari nelle attività di prevenzione e negli interventi in emergenza a supporto della popolazione.`},{name:"Vincenzo Marchesi",img:"/vincenzo-marchesi.jpg",position:18},{name:"Giuseppe Marzato",img:"/giuseppe-marzato.jpg",position:19},{name:"Patrizia Mel",img:"/patrizia-mel.jpg",position:20},{name:"Christian Omiccioli",img:"/christian-omiccioli.jpg",position:21,cvText:`Laureato all'Università Ca' Foscari di Venezia in Tecniche artistiche e dello spettacolo, unisce formazione culturale e esperienza pratica nel mondo del lavoro.
 
 Musicista, ha maturato competenze nella performance e nella produzione artistica, collaborando a progetti legati alla musica dal vivo e alle attività culturali. Parallelamente lavora come impiegato nel settore alberghiero, dove si occupa di accoglienza e servizi agli ospiti, sviluppando capacità organizzative, di relazione con il pubblico e gestione delle situazioni complesse tipiche dell'ospitalità.
 
@@ -179,11 +179,11 @@ Ha un percorso di studi tecnico-scientifico e ha conseguito l'abilitazione all'i
 
 L'esperienza nel commercio e nella didattica le ha permesso di conoscere da vicino sia il mondo del lavoro che quello della scuola, tra spostamenti quotidiani, esigenze delle famiglie e servizi che funzionano o mancano sui territori.
 
-Si candida al Consiglio comunale per portare attenzione ai problemi concreti di chi ogni giorno lavora, accompagna i figli a scuola e si sposta tra quartieri e comuni, chiedendo trasporti più efficienti e servizi più vicini alle persone.`},{name:"Marzia Lodoli",img:"/marzia-lodoli.jpg",position:17,cvText:`Nata a Noale il 17 marzo 1967, risiede a Santa Maria di Sala (VE).
+Si candida al Consiglio comunale per portare attenzione ai problemi concreti di chi ogni giorno lavora, accompagna i figli a scuola e si sposta tra quartieri e comuni, chiedendo trasporti più efficienti e servizi più vicini alle persone.`},{name:"Marzia Lodoli",img:"/marzia-lodoli.jpg",position:17,cvText:`Nata a Noale il 17 marzo 1967, residente a Santa Maria di Sala.
 
-Operaia, ha conseguito il diploma di scuola media e un corso di operatività commerciale.
+Operaia, con licenza di terza media e corso di operatività commerciale, che le ha permesso di maturare competenze organizzative e di rapporto con il pubblico.
 
-Caposquadra della Protezione Civile, mette a servizio della comunità il proprio impegno nel volontariato e nella tutela del territorio.`},{name:"Vincenzo Marchesi",img:"/vincenzo-marchesi.jpg",position:18},{name:"Giuseppe Marzato",img:"/giuseppe-marzato.jpg",position:19},{name:"Patrizia Mel",img:"/patrizia-mel.jpg",position:20},{name:"Christian Omiccioli",img:"/christian-omiccioli.jpg",position:21,cvText:`Laureato all'Università Ca' Foscari di Venezia in Tecniche artistiche e dello spettacolo, unisce formazione culturale e esperienza pratica nel mondo del lavoro.
+È caposquadra di Protezione Civile, ruolo in cui coordina i volontari nelle attività di prevenzione e negli interventi in emergenza a supporto della popolazione.`},{name:"Vincenzo Marchesi",img:"/vincenzo-marchesi.jpg",position:18},{name:"Giuseppe Marzato",img:"/giuseppe-marzato.jpg",position:19},{name:"Patrizia Mel",img:"/patrizia-mel.jpg",position:20},{name:"Christian Omiccioli",img:"/christian-omiccioli.jpg",position:21,cvText:`Laureato all'Università Ca' Foscari di Venezia in Tecniche artistiche e dello spettacolo, unisce formazione culturale e esperienza pratica nel mondo del lavoro.
 
 Musicista, ha maturato competenze nella performance e nella produzione artistica, collaborando a progetti legati alla musica dal vivo e alle attività culturali. Parallelamente lavora come impiegato nel settore alberghiero, dove si occupa di accoglienza e servizi agli ospiti, sviluppando capacità organizzative, di relazione con il pubblico e gestione delle situazioni complesse tipiche dell'ospitalità.
 
