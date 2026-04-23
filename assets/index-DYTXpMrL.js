@@ -107,7 +107,7 @@ Diplomata addetta alla contabilità d'azienda e successivamente ragioniera e per
 
 Ha una lunga storia di impegno politico e civile: candidata al Consiglio comunale di Este nel 2016 con "Prima il Veneto", candidata alla Camera dei Deputati nel 2018 per "Grande Nord" (Padova), attivista per "Prima il Veneto" e "Grande Nord Veneto", dove ha gestito anche parte della comunicazione dei movimenti.
 
-Si candida al Consiglio comunale portando l'esperienza di professionista dei conti pubblici e delle piccole imprese, con l'obiettivo di promuovere una gestione trasparente delle risorse, vicina a artigiani, commercianti e famiglie.`},{name:"Fiorella Trevisan",img:"https://picsum.photos/seed/30/200/200",position:30},{name:"Giorgio Tronca",img:"/giorgio-tronca.jpg",position:31,cvText:`Nato a Vicenza il 9 ottobre 1967, risiede ad Arcugnano (VI).
+Si candida al Consiglio comunale portando l'esperienza di professionista dei conti pubblici e delle piccole imprese, con l'obiettivo di promuovere una gestione trasparente delle risorse, vicina a artigiani, commercianti e famiglie.`},{name:"Fiorella Trevisan",img:"/fiorella-trevisan.jpg",position:30},{name:"Giorgio Tronca",img:"/giorgio-tronca.jpg",position:31,cvText:`Nato a Vicenza il 9 ottobre 1967, risiede ad Arcugnano (VI).
 
 Impiegato tecnico presso Pietro Fiorentini S.p.A., azienda attiva negli impianti di distribuzione del gas metano, dove si occupa di controllo qualità. Il suo lavoro riguarda il controllo e l'approvazione dei materiali di costruzione e di produzione, garantendo standard elevati di sicurezza e affidabilità. Diplomato geometra, ha completato la propria formazione con la qualifica di ispettore di qualità, consolidando una solida competenza tecnica.
 
@@ -201,7 +201,7 @@ Diplomata addetta alla contabilità d'azienda e successivamente ragioniera e per
 
 Ha una lunga storia di impegno politico e civile: candidata al Consiglio comunale di Este nel 2016 con "Prima il Veneto", candidata alla Camera dei Deputati nel 2018 per "Grande Nord" (Padova), attivista per "Prima il Veneto" e "Grande Nord Veneto", dove ha gestito anche parte della comunicazione dei movimenti.
 
-Si candida al Consiglio comunale portando l'esperienza di professionista dei conti pubblici e delle piccole imprese, con l'obiettivo di promuovere una gestione trasparente delle risorse, vicina a artigiani, commercianti e famiglie.`},{name:"Fiorella Trevisan",img:"https://picsum.photos/seed/30/200/200",position:30},{name:"Giorgio Tronca",img:"/giorgio-tronca.jpg",position:31,cvText:`Nato a Vicenza il 9 ottobre 1967, risiede ad Arcugnano (VI).
+Si candida al Consiglio comunale portando l'esperienza di professionista dei conti pubblici e delle piccole imprese, con l'obiettivo di promuovere una gestione trasparente delle risorse, vicina a artigiani, commercianti e famiglie.`},{name:"Fiorella Trevisan",img:"/fiorella-trevisan.jpg",position:30},{name:"Giorgio Tronca",img:"/giorgio-tronca.jpg",position:31,cvText:`Nato a Vicenza il 9 ottobre 1967, risiede ad Arcugnano (VI).
 
 Impiegato tecnico presso Pietro Fiorentini S.p.A., azienda attiva negli impianti di distribuzione del gas metano, dove si occupa di controllo qualità. Il suo lavoro riguarda il controllo e l'approvazione dei materiali di costruzione e di produzione, garantendo standard elevati di sicurezza e affidabilità. Diplomato geometra, ha completato la propria formazione con la qualifica di ispettore di qualità, consolidando una solida competenza tecnica.
 
