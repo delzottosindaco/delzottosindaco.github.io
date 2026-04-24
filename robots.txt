@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /stampa
+
+Sitemap: https://delzottosindaco.github.io/sitemap.xml
