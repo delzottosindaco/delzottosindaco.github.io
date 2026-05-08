@@ -1663,7 +1663,7 @@ const generateCandidateCVPDF = (candidate: Candidate) => {
   window.open(pdfUrl, '_blank');
   
   // Download the PDF
-  doc.save(`${candidate.name.replace(/\s+/g, '_')}_CV.pdf`);
+  window.open(doc.output('bloburl'), '_blank');
 };
 // Funzione per generare il PDF del Casellario Giudiziale
 const generateCandidateCasellario = (candidate: Candidate) => {
@@ -1698,7 +1698,7 @@ const generateCandidateCasellario = (candidate: Candidate) => {
   doc.text('Documento generato ai fini della trasparenza elettorale - Legge 3/2019', 105, pageHeight - 20, { align: 'center' });
   
   window.open(URL.createObjectURL(doc.output('blob')), '_blank');
-  doc.save(`${candidate.name.replace(/\s+/g, '_')}_Casellario.pdf`);
+  window.open(doc.output('bloburl'), '_blank');
 };
 const CandidateViewModal = ({ candidate, isOpen, onClose }: { candidate: Candidate | null, isOpen: boolean, onClose: () => void }) => {
   if (!isOpen || !candidate) return null;
