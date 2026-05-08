@@ -293,9 +293,7 @@ const Navbar = ({ user, isAdmin, onLogin, onLogout, onOpenContact, logo, onLogoC
         >
           Contattaci
         </button>
-        <button className="bg-primary text-on-primary px-6 py-2 rounded-md font-bold text-sm shadow-lg hover:bg-primary-container transition-all">
-          Sostieni
-        </button>
+        
       </div>
     </div>
     
