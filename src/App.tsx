@@ -2136,7 +2136,7 @@ const Candidates = ({ user, isAdmin, onLogin, onLogout, devMode }: { user: User 
                     )}
                     {c.criminalRecordUrl ? (
                       <button
-                        onClick={() => setPdfViewerUrl(c.criminalRecordUrl!)}
+                        onClick={() => window.open(c.criminalRecordUrl!, '_blank')}
                         className="w-full text-[10px] uppercase tracking-widest font-black text-primary border border-primary/20 px-3 py-2 rounded-lg hover:bg-primary/10 transition-all flex items-center justify-center gap-2"
                         title="Visualizza Casellario Giudiziale"
                       >
