@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Public+Sans:wght@300;400;500;600;700;800;900&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Public Sans", ui-sans-serif, system-ui, sans-serif;
+  
+  --color-primary: #006b2c;
+  --color-primary-container: #008739;
+  --color-on-primary: #ffffff;
+  
+  --color-secondary: #4d55b3;
+  --color-on-secondary: #ffffff;
+  
+  --color-tertiary: #efdd1b;
+  --color-on-tertiary: #171d17;
+  --color-tertiary-container: #fff176;
+  
+  --color-surface: #f5fbf1;
+  --color-on-surface: #171d17;
+  
+  --color-surface-container-low: #eff6eb;
+  --color-surface-container: #e9f0e5;
+  --color-surface-container-high: #e4eae0;
+  --color-surface-container-highest: #dee4da;
+  
+  --color-outline: #6e7a6d;
+  --color-outline-variant: #bdcaba;
+}
+
+@layer base {
+  body {
+    @apply bg-surface text-on-surface font-sans antialiased;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    @apply tracking-tight;
+  }
+}
+
+.glass {
+  @apply bg-surface/80 backdrop-blur-xl;
+}
+
+.hero-gradient {
+  background: linear-gradient(135deg, var(--color-primary) 0%, var(--color-primary-container) 100%);
+}
+
+.text-balance {
+  text-wrap: balance;
+}
