@@ -1617,19 +1617,6 @@ const generateCandidateCVPDF = (candidate: Candidate) => {
     yPosition += cvLines.length * 5 + 10;
   }
   
-  // Criminal Record section
-  doc.setFontSize(14);
-  doc.setTextColor(primaryColor[0], primaryColor[1], primaryColor[2]);
-  doc.text('Casellario Giudiziale', 20, yPosition);
-  yPosition += 10;
-  
-  doc.setFontSize(10);
-  doc.setTextColor(0, 0, 0);
-  const criminalRecordText = candidate.criminalRecordText || "Nessuna annotazione presente nel casellario giudiziale.";
-  const criminalRecordLines = doc.splitTextToSize(criminalRecordText, 170);
-  doc.text(criminalRecordLines, 20, yPosition);
-  yPosition += criminalRecordLines.length * 5 + 10;
-  
   // Policies section
   if (candidate.policies && candidate.policies.length > 0) {
     doc.setFontSize(14);
