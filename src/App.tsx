@@ -1853,6 +1853,7 @@ const Candidates = ({ user, isAdmin, onLogin, onLogout, devMode }: { user: User 
             ...def,
             ...(fb?.id ? { id: fb.id } : {}),
             img: def.img,
+            age: def.age,
             cvText: def.cvText || (fb?.cvText ?? ""),
           };
         });
