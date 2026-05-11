@@ -4232,6 +4232,8 @@ export default function App() {
         {/* Countdown alle elezioni */}
         <CountdownSection />
 
+        <NewsSection />
+
         {/* Banner evento in evidenza */}
         <section className="py-6 bg-surface">
           <div className="max-w-4xl mx-auto px-4 space-y-6">
