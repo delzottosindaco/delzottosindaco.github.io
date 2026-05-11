@@ -2379,64 +2379,99 @@ const CountdownSection = () => {
 // News Section
 const newsItems = [
   {
+    date: "Maggio 2026",
+    title: "Prima il Veneto, Del Zotto: u00ABCasa, lavoro e sicurezzau00BB",
+    excerpt: "Un articolo dedicato al programma elettorale di Pierangelo Del Zotto, candidato sindaco di Venezia per Prima il Veneto, con focus sui temi di casa, lavoro e sicurezza.",
+    tag: "Intervista",
+    img: "/articolo-del-zotto.jpg",
+    fullImg: "/articolo-del-zotto.jpg"
+  },
+  {
     date: "Venerdì 24 aprile 2026",
     title: "Giovanni Pagotto ospite a Focus su Rete Veneta",
     excerpt: "Il candidato Giovanni Pagotto, lista Prima il Veneto, sarà ospite della trasmissione Focus su Rete Veneta (canale 14 digitale terrestre), venerdì 24 aprile alle ore 21.15.",
     tag: "Media",
-    img: "/pagotto-crop.jpg"
+    img: "/pagotto-crop.jpg",
+    fullImg: null
   }
 ];
 
-const NewsSection = () => (
-  <section id="news" className="py-16 bg-surface-container-low/30">
-    <div className="max-w-7xl mx-auto px-6">
-      <div className="text-center mb-16">
-        <h2 className="text-primary text-sm font-black uppercase tracking-[0.3em] mb-4">Aggiornamenti</h2>
-        <h3 className="text-4xl md:text-5xl font-black text-on-surface tracking-tighter">Ultime dalla campagna</h3>
+const NewsSection = () => {
+  const [lightboxImg, setLightboxImg] = React.useState<string | null>(null);
+  return (
+    <section id="news" className="py-16 bg-surface-container-low/30">
+      {lightboxImg && (
+        <div
+          className="fixed inset-0 z-50 flex items-center justify-center bg-black/80 p-4"
+          onClick={() => setLightboxImg(null)}
+        >
+          <div className="relative max-w-3xl w-full" onClick={e => e.stopPropagation()}>
+            <button
+              onClick={() => setLightboxImg(null)}
+              className="absolute -top-10 right-0 text-white font-bold text-xl hover:text-yellow-300"
+            >
+              ✕ Chiudi
+            </button>
+            <img src={lightboxImg} alt="Articolo" className="w-full rounded-xl shadow-2xl" />
+          </div>
+        </div>
+      )}
+      <div className="max-w-7xl mx-auto px-6">
+        <div className="text-center mb-16">
+          <h2 className="text-primary text-sm font-black uppercase tracking-[0.3em] mb-4">Aggiornamenti</h2>
+          <h3 className="text-4xl md:text-5xl font-black text-on-surface tracking-tighter">Ultime dalla campagna</h3>
+        </div>
+
+        <div className="max-w-2xl mx-auto space-y-6">
+          {newsItems.map((news, idx) => (
+            <motion.article
+              key={idx}
+              initial={{ opacity: 0, y: 30 }}
+              whileInView={{ opacity: 1, y: 0 }}
+              viewport={{ once: true }}
+              className="bg-white rounded-2xl overflow-hidden border border-outline-variant/10 shadow-lg"
+            >
+              <div className="flex items-center gap-6 p-8 pb-4">
+                <div className="w-28 h-28 rounded-2xl overflow-hidden shrink-0 shadow-md border border-outline-variant/10">
+                  <img src={news.img} alt={news.title} className="w-full h-full object-cover object-top" />
+                </div>
+                <div className="flex-1">
+                  <h4 className="text-xl font-black text-on-surface tracking-tight mb-1">{news.title}</h4>
+                  <p className="text-primary font-bold text-sm uppercase tracking-widest">Prima il Veneto</p>
+                </div>
+                <div className="w-16 h-16 shrink-0 hidden md:block">
+                  <img src="/logo-ufficiale.png" alt="Prima il Veneto" className="w-full h-full object-contain" />
+                </div>
+              </div>
+
+              <div className="px-8 py-3">
+                <div className="inline-flex items-center gap-2 bg-primary text-on-primary px-5 py-2.5 rounded-xl font-black text-sm tracking-wide shadow-md">
+                  <Calendar size={16} />
+                  {news.date}
+                </div>
+              </div>
+
+              <div className="px-8 pb-8 pt-2">
+                <p className="text-gray-700 leading-relaxed">{news.excerpt}</p>
+                <div className="mt-4 flex items-center gap-3 flex-wrap">
+                  <span className="text-xs font-bold text-primary bg-primary/10 px-3 py-1 rounded-full">{news.tag}</span>
+                  {news.fullImg && (
+                    <button
+                      onClick={() => setLightboxImg(news.fullImg!)}
+                      className="text-xs font-bold text-white bg-primary px-4 py-1.5 rounded-full hover:bg-primary/80 transition-colors"
+                    >
+                      Leggi articolo intero →
+                    </button>
+                  )}
+                </div>
+              </div>
+            </motion.article>
+          ))}
+        </div>
       </div>
-      
-      <div className="max-w-2xl mx-auto">
-        {newsItems.map((news, idx) => (
-          <motion.article
-            key={idx}
-            initial={{ opacity: 0, y: 30 }}
-            whileInView={{ opacity: 1, y: 0 }}
-            viewport={{ once: true }}
-            className="bg-white rounded-2xl overflow-hidden border border-outline-variant/10 shadow-lg"
-          >
-            <div className="flex items-center gap-6 p-8 pb-4">
-              <div className="w-28 h-28 rounded-2xl overflow-hidden shrink-0 shadow-md border border-outline-variant/10">
-                <img src={news.img} alt={news.title} className="w-full h-full object-cover object-top" />
-              </div>
-              <div className="flex-1">
-                <h4 className="text-2xl font-black text-on-surface tracking-tight mb-1">Giovanni Pagotto</h4>
-                <p className="text-primary font-bold text-sm uppercase tracking-widest">Prima il Veneto</p>
-              </div>
-              <div className="w-16 h-16 shrink-0 hidden md:block">
-                <img src="/logo-ufficiale.png" alt="Prima il Veneto" className="w-full h-full object-contain" />
-              </div>
-            </div>
-            
-            <div className="px-8 py-3">
-              <div className="inline-flex items-center gap-2 bg-primary text-on-primary px-5 py-2.5 rounded-xl font-black text-sm tracking-wide shadow-md">
-                <Calendar size={16} />
-                {news.date} — ore 21.15
-              </div>
-            </div>
-            
-            <div className="px-8 pb-8 pt-2">
-              <p className="text-gray-700 leading-relaxed">{news.excerpt}</p>
-              <div className="mt-4 flex items-center gap-2">
-                <span className="text-xs font-bold text-primary bg-primary/10 px-3 py-1 rounded-full">{news.tag}</span>
-                <span className="text-xs text-on-surface/70">Rete Veneta — Canale 14</span>
-              </div>
-            </div>
-          </motion.article>
-        ))}
-      </div>
-    </div>
-  </section>
-);
+    </section>
+  );
+};
 
 // FAQ Section with Schema Markup
 const faqData = [
